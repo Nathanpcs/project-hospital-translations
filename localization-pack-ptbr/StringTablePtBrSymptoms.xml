@@ -972,24 +972,24 @@
             <GameDBLocalizedString>      <LocID>SYM_WRIST_CONTUSION_DESCRIPTION</LocID>                     <Text>X-ray examination ruled out the possibility of o broken bone.</Text>  </GameDBLocalizedString>
 
             <!-- Surgery complication symptoms -->
-            <GameDBLocalizedString>      <LocID>SYM_CARDIAC_TAMPONADE</LocID>                               <Text>Cardiac tamponade</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_CARDIAC_TAMPONADE_DESCRIPTION</LocID>                   <Text>A life-threatening post-surgical condition when the pericardium (a sac surrounding the heart) gets filled with blood, which makes it very difficult for heart to function properly.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_BLEEDING_FROM_THE_WOUND</LocID>                         <Text>Surgical cut bleeding</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_BLEEDING_FROM_THE_WOUND_DESCRIPTION</LocID>             <Text>Bleeding from a surgical cut.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_WOUND_INFECTION</LocID>                                 <Text>Wound infection</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_WOUND_INFECTION_DESCRIPTION</LocID>                     <Text>Infection spread through the surgical wound.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_BRAIN_SWELLING</LocID>                                  <Text>Brain swelling</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_BRAIN_SWELLING_DESCRIPTION</LocID>                      <Text>Edema of the brain caused by a surgery.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_UNSTABLE_BLOOD_PRESSURE</LocID>                         <Text>Unstable blood pressure</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_UNSTABLE_BLOOD_PRESSURE_DESCRIPTION</LocID>             <Text>Unstable blood pressure as a reaction to the surgery.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_SEIZURES</LocID>                                        <Text>Post-surgical seizures</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_SEIZURES_DESCRIPTION</LocID>                            <Text>Brief episodes caused by an abnormal neuronal activity.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_ABSCESS</LocID>                                         <Text>Abscess</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_ABSCESS_DESCRIPTION</LocID>                             <Text>Buildup of pus within the tissue surrounding a surgical wound.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_ALVEOLAR_COLLAPSE</LocID>                               <Text>Alveolar collapse</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_ALVEOLAR_COLLAPSE_DESCRIPTION</LocID>                   <Text>Reaction of the organism to anesthetics used during surgeries which results in a collapse of patient's pulmonary alveoli.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_SEPSIS</LocID>                                          <Text>Sepsis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_SEPSIS_DESCRIPTION</LocID>                              <Text>Post-surgical complication and a life-threatening condition when the body causes damage to its own organs while fighting an infection.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CARDIAC_TAMPONADE</LocID>                               <Text>tamponamento cardíaco</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CARDIAC_TAMPONADE_DESCRIPTION</LocID>                   <Text>Uma condição pós-cirúrgica com risco de vida, quando o pericárdio (um saco que envolve o coração) fica cheio de sangue, o que torna muito difícil para o coração funcionar adequadamente.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLEEDING_FROM_THE_WOUND</LocID>                         <Text>Sangramento cirúrgico</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLEEDING_FROM_THE_WOUND_DESCRIPTION</LocID>             <Text>Sangramento de um corte cirúrgico.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WOUND_INFECTION</LocID>                                 <Text>Ferimento contagioso</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WOUND_INFECTION_DESCRIPTION</LocID>                     <Text>Infecção espalhada pelo ferimento cirúrgico.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BRAIN_SWELLING</LocID>                                  <Text>Edema cerebral</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BRAIN_SWELLING_DESCRIPTION</LocID>                      <Text>Edema no cérebro causado por uma cirurgia.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_UNSTABLE_BLOOD_PRESSURE</LocID>                         <Text>Pressão arterial instável</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_UNSTABLE_BLOOD_PRESSURE_DESCRIPTION</LocID>             <Text>Pressão arterial instável como reação à cirurgia.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SEIZURES</LocID>                                        <Text>Convulsões pós-cirúrgicas</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SEIZURES_DESCRIPTION</LocID>                            <Text>Episódios breves causados por uma atividade neuronal anormal.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ABSCESS</LocID>                                         <Text>Abscesso</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ABSCESS_DESCRIPTION</LocID>                             <Text>Acúmulo de pus no tecido ao redor de um ferimento cirúrgico.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ALVEOLAR_COLLAPSE</LocID>                               <Text>Colapso alveolar</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ALVEOLAR_COLLAPSE_DESCRIPTION</LocID>                   <Text>Reação do organismo aos anestésicos utilizados durante cirurgias que resultam em um colapso dos alvéolos pulmonares do paciente.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SEPSIS</LocID>                                          <Text>septicemia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SEPSIS_DESCRIPTION</LocID>                              <Text>complicação pós-cirúrgica e uma condição com risco de vida quando o corpo causa danos aos seus próprios órgãos, enquanto luta contra uma infecção.</Text>  </GameDBLocalizedString>
 
         </LocalizedStrings>
     </GameDBStringTable>
