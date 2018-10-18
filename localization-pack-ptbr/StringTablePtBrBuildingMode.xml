@@ -132,21 +132,21 @@
             <GameDBLocalizedString>      <LocID>DOOR_DOUBLE_ELEVATOR</LocID>                     	<Text>Porta deslizante de metal</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_WAITING</LocID>                           <Text>Sala de espera</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_WAITING_DESCRIPTION</LocID>               <Text>Waiting rooms should be placed within reach of each office, lab and radiology room.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_WAITING_DESCRIPTION</LocID>               <Text>Salas de espera devem ser colocadas ao alcance de cada escritório, laboratório e sala de radiologia.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_DOCTORS_OFFICE</LocID>                    <Text>Consultório médico</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_DOCTORS_OFFICE_DESCRIPTION</LocID>        <Text>Basic clinic office for simple examinations and treatments. Staff requirements:\n1x Doctor</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_DOCTORS_OFFICE_DESCRIPTION</LocID>        <Text>Escritório clínico básico para exames e tratamentos simples. Requisitos de pessoal:\n1x Doctor</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_COMMON_ROOM</LocID>                       <Text>Sala de convívio</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_COMMON_ROOM_DESCRIPTION</LocID>           <Text>Common room is the place for hospital staff to rest, study and eat.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_COMMON_ROOM_DESCRIPTION</LocID>           <Text>Sala comum é o lugar para a equipe do hospital descansar, estudar e comer.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_RECEPTION</LocID>                         <Text>Recepção</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_RECEPTION_DESCRIPTION</LocID>             <Text>Reception ensures that patients with high risk get prioritized during their visit. \n\nMin. Staff requirements: \n1x Nurse - Receptionist</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_RECEPTION_DESCRIPTION</LocID>             <Text>A recepção garante que os pacientes com alto risco sejam priorizados durante a visita. \n\nMin. Requisitos de pessoal: \n1x Enfermeira - Recepcionista</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_CORRIDOR</LocID>                          <Text>Corredor</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CORRIDOR_DESCRIPTION</LocID>              <Text>Mark corridors as this room type to assign the area and equipment to a department and enable automatic lights and janitor's cleaning service.  \n\nMin. Staff requirements: \nNone</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CORRIDOR_DESCRIPTION</LocID>              <Text>Marque corredores como este tipo de quarto para atribuir a área e o equipamento a um departamento e habilite luzes automáticas e serviço de limpeza do zelador.  \n\nMin. Requisitos de pessoal: \nNone</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB</LocID>                          <Text>Laboratório de análises</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_DESCRIPTION</LocID>              <Text>Stat Lab provides a wide variety of laboratory tests to confirm different diagnoses.\nMin. Staff requirements:\n1x Technologist - Biochemist</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_DESCRIPTION</LocID>              <Text>O Stat Lab fornece uma ampla variedade de testes de laboratório para confirmar diferentes diagnósticos.\nMin. Requisitos de pessoal:\n1x Tecnólogo - Bioquímico</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_GS</LocID>                       <Text>Laboratório cirúrgico</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_GS_DESCRIPTION</LocID>           <Text>Surgery Lab provides a wide variety of laboratory tests to confirm different diagnoses.\nMin. Staff requirements:\n1x Technologist - Biochemist</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_GS_DESCRIPTION</LocID>           <Text>Laboratório de Cirurgia oferece uma ampla variedade de testes de laboratório para confirmar diferentes diagnósticos.\nMin. Requisitos de pessoal:\n1x Tecnólogo - Bioquímico</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_IM</LocID>                       <Text>Laboratório médico</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_IM_DESCRIPTION</LocID>           <Text>Med Lab provides a wide variety of laboratory tests to confirm different diagnoses.\nMin. Staff requirements:\n1x Technologist - Biochemist</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_OT</LocID>                       <Text>Laboratório ortopédico</Text>  </GameDBLocalizedString>
